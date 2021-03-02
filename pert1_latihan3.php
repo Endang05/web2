@@ -5,7 +5,7 @@
  Function test()
  {
  Static $a=0; // dengan static
- Echo “Nilai a : ”;
+ Echo “Nilai a : “;
  Echo $a; 
  Echo “<br>”;
  $a++;
@@ -17,4 +17,4 @@
  Test();
 ?>
 </body>
-</html> 
+</html>
