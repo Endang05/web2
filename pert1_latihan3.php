@@ -3,7 +3,6 @@
 <body><h1>Variabel Static</h1>
 <?php
  Function test()
- define("nama_konstanta",nilai);
  {
  Static $a=0; // dengan static
  Echo “Nilai a : ”;
